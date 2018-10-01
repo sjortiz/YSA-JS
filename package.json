@@ -1,0 +1,10 @@
+{
+  "name": "YSA-JS",
+  "version": "0.1.0",
+  "description": "YSA - Javascript client library",
+  "main": "index.js",
+  "repository": "https://github.com/sjortiz/YSA-JS",
+  "author": "sjortiz",
+  "license": "MIT",
+  "private": false
+}
